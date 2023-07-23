@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .allcompoent {
+      @apply mt-[100px] flex flex-col items-center
+    }
+  }
